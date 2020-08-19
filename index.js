@@ -64,7 +64,6 @@ let render_lists = function (lists) {
 };
 render_lists(data);
 
-// lets filters it
 input = document.getElementById("filtered_data");
 
 let filterData = function (event) {
